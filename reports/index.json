@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260816-133001-vdsh",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-08-16T01:30:01.000Z",
+      "dateEnd": "2026-08-16T02:04:12.000Z",
+      "dateLabel": "8/16/2026, 1:30:01 PM - 8/16/2026, 2:04:12 PM",
+      "url": "https://stewartduff.github.io/JeseterGW2/?report=20260816-133001-vdsh",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 22
+      }
+    }
+  ]
+}
