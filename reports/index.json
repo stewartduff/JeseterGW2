@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-125414-6zrf",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "dateStart": "2026-09-20T00:54:14.000Z",
+      "dateEnd": "2026-09-20T01:33:50.000Z",
+      "dateLabel": "9/20/2026, 12:54:14 PM - 9/20/2026, 1:33:50 PM",
+      "url": "https://stewartduff.github.io/JeseterGW2/?report=20260920-125414-6zrf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260510-130255-l0yd",
       "title": "Foxy Pikachu",
       "commanders": [
